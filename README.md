@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PECTAPT
 - 👀 I am interested in programming
-- 🌱 I am currently learning HTML
+- 🌱 I am currently learning HTML and CSS
 - 🐻 I live in Russia
 
 <!---
